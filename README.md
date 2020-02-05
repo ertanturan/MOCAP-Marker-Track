@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6129b17116c925a45c4240a5d1a4075ef17b3381c943e6e07dbe1c8c4c59759
-size 393
+# MOCAP-Marker-Track
+
+Labeling of each marker from a frame , creating a dotted line between each marker and finally writing each frame to a video .
+
+If you want to video output just switch video bool to true .
+
+# Youtube Video Link
+
+[![Mocap Marker Track using Matlab](http://img.youtube.com/vi/QAnTRDqS6p4/0.jpg)](http://www.youtube.com/watch?v=QAnTRDqS6p4 "Mocap Marker Track using Matlab")
