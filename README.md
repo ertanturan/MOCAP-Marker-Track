@@ -1,4 +1,4 @@
-# MOCAP-Marker-Track
+# MOCAP-Marker-Track (School Project)
 
 Labeling of each marker from a frame , creating a dotted line between each marker and finally writing each frame to a video .
 
